@@ -1,0 +1,7 @@
+C:\Users\donle\source\repos\Lab4TL\Lab4TL\bin\Debug\Lab4TL.exe.config
+C:\Users\donle\source\repos\Lab4TL\Lab4TL\bin\Debug\Lab4TL.exe
+C:\Users\donle\source\repos\Lab4TL\Lab4TL\bin\Debug\Lab4TL.pdb
+C:\Users\donle\source\repos\Lab4TL\Lab4TL\obj\Debug\Lab4TL.csprojAssemblyReference.cache
+C:\Users\donle\source\repos\Lab4TL\Lab4TL\obj\Debug\Lab4TL.csproj.CoreCompileInputs.cache
+C:\Users\donle\source\repos\Lab4TL\Lab4TL\obj\Debug\Lab4TL.exe
+C:\Users\donle\source\repos\Lab4TL\Lab4TL\obj\Debug\Lab4TL.pdb
